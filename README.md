@@ -16,11 +16,11 @@ O candidato terá que efetuar o cadastro no site, e por meio desse cadastro tere
 - ## Autores
 
 * **Eduardo Douglas** 
-> *Criação, estilização e eventos do site*  
+> *Front-end e back-end do projeto*  
 * **Marco Dias** 
-> *Hospedagem do site e infraestrutura do projeto*
+> *Hospedagem do site, infraestrutura do projeto e criação do vídeo*
 * **Israel Vagner** 
-> *Back-end e configuração do banco de dados* 
+> *Back-end, roterização dos textos e criação do vídeo* 
 
 - ## Licença
 
